@@ -7,6 +7,24 @@
   <img width="45%" src="https://img.shields.io/badge/OOP244-Mastery-important?style=for-the-badge&color=blueviolet" alt="OOP Mastery">
 </div>
 
+## 📅 Weekly Materials Breakdown
+
+| Week | Topics Covered |
+|------|----------------|
+| 1 | OOP Basics, Object Terminology, Modular Programming, Types & References, Dynamic Memory |
+| 2 | Types & References Review, Dynamic Memory, Member Functions, Privacy |
+| 3 | Member Functions, Privacy, Construction/Destruction, The Current Object |
+| 4 | Construction/Destruction, Current Object, Member Operators, Helper Functions |
+| 5 | Member Operators, Helper Functions, Classes & Resources, I/O Operators |
+| 6 | Classes & Resources, I/O Operators (continued), Refinements |
+| 7 | I/O Operators Refinements, Derived Classes, Functions in Hierarchy |
+| 8 | Derived Classes, Hierarchy Functions, Virtual Functions, Abstract Base Classes |
+| 9 | Virtual Functions, Abstract Base Classes, Derived Class with Resources |
+| 10 | Derived Class with Resources, Function Templates |
+| 11 | Function Templates, I/O Refinements, Polymorphism Overview |
+| 12 | I/O Refinements Review, Polymorphism, Language Standards |
+| 13 | Language Standards, Open Q&A Session |
+
 ## 📦 What's Inside
 
 ```mermaid
