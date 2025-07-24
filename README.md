@@ -1,11 +1,10 @@
 # 🏗️ OOP244 Core | C++ Object-Oriented Programming
 
-**Your complete Seneca OOP244 survival kit**  
-*Notes • Labs • Solutions • Cheatsheets • Exam Prep*
+**Your complete Seneca OOP244 survival Kit:**  
+*Notes • Topic-wise-code snippets • Cheatsheets • Exam Prep*
 
 <div align="center">
-  <img width="45%" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img width="45%" src="https://img.shields.io/badge/OOP-Mastery-important?style=for-the-badge&color=blueviolet" alt="OOP Mastery">
+  <img width="45%" src="https://img.shields.io/badge/OOP244-Mastery-important?style=for-the-badge&color=blueviolet" alt="OOP Mastery">
 </div>
 
 ## 📦 What's Inside
