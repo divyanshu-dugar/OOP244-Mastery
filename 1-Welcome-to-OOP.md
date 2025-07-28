@@ -84,7 +84,25 @@ int main() {
 - `cin` → Standard input object.  
 - `>>` → Extraction operator (reads data).  
 
+## 🛠 **Compiling & Linking**  
 
+### **1. Linux (g++)**  
+```bash  
+g++ main.cpp Transaction.cpp -o accounting -Wall  
+```  
+- `-o accounting` → Output executable name.  
+- `-Wall` → Show all warnings.  
+
+### **2. Windows (Visual Studio CLI)**  
+```cmd  
+cl /Feaccounting main.cpp Transaction.cpp  
+```  
+- `/Feaccounting` → Output executable name.  
+
+### **3. IDEs (Visual Studio, Eclipse, etc.)**  
+- **Add files** to project.  
+- **Build (Ctrl+B)** → Compiles all `.cpp` files.  
+- **Run (Ctrl+F5)** → Executes the program.  
 
 ## 🔑 **Key Takeaways**  
 ✅ **OOP** helps manage complexity by modeling real-world objects.  
@@ -92,7 +110,6 @@ int main() {
 ✅ **Namespaces** prevent naming conflicts.  
 ✅ **`cout` & `cin`** replace `printf()` & `scanf()` for cleaner I/O.  
 ✅ **Type safety** in C++ reduces runtime errors.  
-
 
 
 ## 📖 **Further Reading**  
