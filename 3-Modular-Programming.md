@@ -70,30 +70,6 @@ int main() {
 }  
 ```  
 
-
-
-## 🛠 **Compiling & Linking**  
-
-### **1. Linux (g++)**  
-```bash  
-g++ main.cpp Transaction.cpp -o accounting -Wall  
-```  
-- `-o accounting` → Output executable name.  
-- `-Wall` → Show all warnings.  
-
-### **2. Windows (Visual Studio CLI)**  
-```cmd  
-cl /Feaccounting main.cpp Transaction.cpp  
-```  
-- `/Feaccounting` → Output executable name.  
-
-### **3. IDEs (Visual Studio, Eclipse, etc.)**  
-- **Add files** to project.  
-- **Build (Ctrl+B)** → Compiles all `.cpp` files.  
-- **Run (Ctrl+F5)** → Executes the program.  
-
-
-
 ## 🧪 **Unit Testing**  
 - **Test each module in isolation**.  
 - Example: A `Calculator` module with tests:  
@@ -118,18 +94,10 @@ void testPower() {
 
 ✅ **Best Practice**: Write tests **before** implementing logic!  
 
-
-
 ## 🔑 **Key Takeaways**  
 ✔ **Modules = `.h` (declarations) + `.cpp` (definitions)**.  
 ✔ **Compile separately, link together**.  
-✔ **Unit tests catch bugs early**.  
-✔ **IDEs simplify building/running**.  
+✔ **Unit tests catch bugs early**.   
 
 🚀 **Next Steps**: Try splitting your next project into modules!  
 
-
-
-### 📖 **Further Reading**  
-- [Modular Programming (Wikipedia)](https://en.wikipedia.org/wiki/Modular_programming)  
-- [C++ Header Files Guide](https://www.learncpp.com/cpp-tutorial/header-files/)
