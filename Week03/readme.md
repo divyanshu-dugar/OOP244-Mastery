@@ -11,7 +11,6 @@ Upon successful completion of this workshop, you will have demonstrated the abil
 - use member functions to query the state of an object
 - use member functions to change the state of an object
 - format your output on the console
-- describe to your instructor what you have learned in completing this workshop
 
 # Instructins
 Your task for Workshop 3 Part 1 is to create a C++ program for a car service shop that offers different maintenance services. The program should consist of three modules: 
